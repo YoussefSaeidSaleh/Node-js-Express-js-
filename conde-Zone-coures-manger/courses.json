@@ -2,5 +2,7 @@
   { "title": "you", "price": "500" },
   { "title": "r", "price": "5" },
   { "title": "js", "price": "500" },
+    { "title": "python", "price": "500" },
+
   { "title": "s", "price": "5300" }
 ]
