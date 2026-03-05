@@ -122,3 +122,6 @@ crypto.pbkdf2("secret", "salt", 1000, 64, "sha512", () => {
 crypto.pbkdf2("secret", "salt", 1000, 64, "sha512", () => {
   console.log("End of P ms", performance.now() - start);
 });
+crypto.pbkdf2("secret", "salt", 1000, 64, "sha512", () => {
+  console.log("End of P ms", performance.now() - start);
+});
